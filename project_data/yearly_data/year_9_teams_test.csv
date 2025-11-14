@@ -1,0 +1,15 @@
+tmID,year,lgID,confID,franchID,name,arena
+ATL,9,WNBA,EA,ATL,Atlanta Dream,Philips Arena
+CHI,9,WNBA,EA,CHI,Chicago Sky,UIC Pavilion
+CON,9,WNBA,EA,CON,Connecticut Sun,Mohegan Sun Arena
+DET,9,WNBA,EA,DET,Detroit Shock,The Palace of Auburn Hills
+HOU,9,WNBA,WE,HOU,Houston Comets,Toyota Center
+IND,9,WNBA,EA,IND,Indiana Fever,Conseco Fieldhouse
+LAS,9,WNBA,WE,LAS,Los Angeles Sparks,Staples Center
+MIN,9,WNBA,WE,MIN,Minnesota Lynx,Target Center
+NYL,9,WNBA,EA,NYL,New York Liberty,Madison Square Garden (IV)
+PHO,9,WNBA,WE,PHO,Phoenix Mercury,US Airways Center
+SAC,9,WNBA,WE,SAC,Sacramento Monarchs,ARCO Arena (II)
+SAS,9,WNBA,WE,SAS,San Antonio Silver Stars,AT&T Center
+SEA,9,WNBA,WE,SEA,Seattle Storm,KeyArena at Seattle Center
+WAS,9,WNBA,EA,WAS,Washington Mystics,Verizon Center
