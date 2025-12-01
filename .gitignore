@@ -1,2 +1,6 @@
 .venv/
 .DS_Store
+.idea
+objective.md
+results.txt
+*.pdf
